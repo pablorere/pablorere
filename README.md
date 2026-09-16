@@ -60,10 +60,10 @@ silver@42urduliz:~$ ./stack --list
 ### `~` Stats
 
 <a href="https://github.com/pablorere">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pablorere&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-one.vercel.app/api?username=pablorere&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub stats" />
 </a>
 <a href="https://github.com/pablorere">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablorere&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=pablorere&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" alt="Top languages" />
 </a>
 
 <br/>
